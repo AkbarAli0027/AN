@@ -1,0 +1,54 @@
+.square{
+    margin: 200px auto 0px;
+    width:200px;
+    height: 200px;
+    background-color: red;
+    box-shadow: 24px 34px 52px blue;
+}
+
+p{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 64px;
+    font-weight: bold;
+    color: blue;
+    text-transform: uppercase;
+    text-shadow: 24px 34px 52px red ;
+}
+
+.box{
+    margin: 200px auto 0px;
+    width:200px;
+    height: 200px;
+    background-color: orange;
+    box-shadow: -24px 34px 52px black;
+}
+
+.dumalo{
+    border-radius: 100px;
+    margin: 200px auto 0px;
+    width:200px;
+    height: 200px;
+    background-color: blue;
+    box-shadow: -24px 34px 52px black;
+}
+
+
+.dumaloo{
+    border-radius: 100px;
+    margin: 200px auto 0px;
+    width:200px;
+    height: 200px;
+    background-color: green;
+    box-shadow: 24px 34px 52px yellow;
+}
+
+.p1{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 64px;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+    text-shadow: -24px 34px 52px limegreen ;
+}
